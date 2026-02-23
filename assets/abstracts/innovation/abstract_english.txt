@@ -1,0 +1,7 @@
+This video presentation explores an innovation in the field of Information Technology titled VibeWave, a digital DJ–fan engagement platform designed to modernize the entertainment industry. The innovation addresses key challenges faced during live events, including unstructured music requests, informal payment systems, lack of audience engagement analytics, and inefficient communication between DJs and clients.
+
+VibeWave integrates mobile application technology, real-time music requests, secure digital payments, event-based voting systems, and post-event review mechanisms into a single scalable platform. The system is built using modern software development principles and cloud-based infrastructure to ensure reliability, performance, and scalability.
+
+The innovation contributes to digital transformation in the entertainment sector by introducing structured interaction, financial transparency, data-driven engagement, and enhanced user experience. Additionally, it creates economic empowerment opportunities for DJs and event organizers by digitizing traditional processes.
+
+This project demonstrates how technology can be applied to solve real-world challenges in creative industries while promoting entrepreneurship, digital inclusion, and innovation in Kenya and beyond.

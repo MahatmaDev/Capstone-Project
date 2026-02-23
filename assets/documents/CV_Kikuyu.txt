@@ -1,0 +1,52 @@
+Kelvin Maina Ndegwa
+Namba : C025-01-2566/2022
+Marua: Ndegwak6@gmail.com
+
+ŨHŨTHA WA WĨRA
+
+Ndĩ mũrũgano wa Shahada ya Teknolojia ya Habari ũrĩ na ũmenyi mũnene wa gũthondeka application cia Android (Kotlin), gũthondeka mĩtĩ ya web (HTML, CSS, JavaScript), hamwe na gũtũmĩra Firebase na Cloud Functions. Ndĩ mũthondeki wa VibeWave, jukwaa rĩa gũrũgamia DJ na athĩnjĩrĩri thĩinĩ wa mĩciĩ ya burudani.
+
+WĨRA WA MASOMO
+
+Shahada ya Teknolojia ya Habari
+Chuo Kikuu kĩa Dedan Kimathi
+
+Stashahada ya Teknolojia ya Habari
+Chuo Kikuu kĩa Dedan Kimathi
+
+ICDL – Aberdare Institute of Technology
+
+ŨMENYI WA KĨHUNJĨ
+
+Android (Kotlin)
+
+Firebase
+
+Cloud Functions
+
+NestJS
+
+HTML, CSS, JavaScript
+
+Gũthondeka mĩtĩ ya web
+
+Gũthondeka mĩtĩ ya system
+
+MIRADI
+
+VibeWave – Mũrũgano wa DJ na athĩnjĩrĩri
+Tovuti ya Capstone
+
+WĨRA WA MŨNO
+
+DJ – Mahatma_the_DJ
+
+Gũthondeka mĩciĩ
+
+Gũtũmĩra brand
+
+Gũrũgamia athĩnjĩrĩri
+
+MŨTUGO WA MŨNO
+
+Gũkũra, ũhoro wa wĩrĩgĩrĩri, ũjasiriamali, hamwe na gũthondeka maũndũ ma mũhianano.

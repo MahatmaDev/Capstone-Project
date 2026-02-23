@@ -1,0 +1,99 @@
+CURRICULUM VITAE
+Kelvin Maina Ndegwa
+Reg No: C025-01-2566/2022
+Email: Ndegwak6@gmail.com
+
+Location: Nyeri / Kenya
+
+PROFESSIONAL SUMMARY
+
+A highly motivated Bachelor of Science in Information Technology student with strong expertise in Android development (Kotlin), frontend development (HTML, CSS, JavaScript), and cloud-based backend systems using Firebase and Cloud Functions. Developer of VibeWave, an innovative DJ–fan engagement platform. Combines technical competence with creativity as a professional DJ (Mahatma_the_DJ), demonstrating leadership, branding, and communication skills.
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+Dedan Kimathi University of Technology
+Year: Fourth Year, Second Semester (4.2)
+
+Diploma in Information Technology
+Dedan Kimathi University of Technology
+Completed: 2022
+
+International Computer Driving License (ICDL)
+Aberdare Institute of Technology
+
+KCSE – C+
+KCPE – 395 Marks
+
+TECHNICAL SKILLS
+
+Android Development (Kotlin)
+
+Firebase Authentication & Firestore
+
+Cloud Functions
+
+NestJS (Backend Development)
+
+HTML, CSS, JavaScript
+
+Responsive Web Design
+
+UI/UX Principles
+
+Git & Version Control
+
+REST APIs
+
+System Architecture Design
+
+PROJECTS
+
+VibeWave (Capstone Innovation Project)
+A DJ–fan engagement platform integrating real-time song requests, voting, event management, and digital payments.
+
+Capstone Professional Website
+Responsive portfolio website built using HTML, CSS, JavaScript and deployed using GitHub & Vercel.
+
+PROFESSIONAL CERTIFICATIONS
+
+ICDL
+
+Networking
+
+Responsible Computing
+
+Cyber Security
+
+IBM Full Stack Developer Certification
+
+PROFESSIONAL EXPERIENCE
+
+Professional DJ – Mahatma_the_DJ
+
+Event branding & management
+
+Crowd engagement
+
+Business promotion & digital marketing
+
+Client communication & networking
+
+STRENGTHS
+
+Problem-solving
+
+Discipline & consistency
+
+Creative thinking
+
+Team collaboration
+
+Leadership & innovation mindset
+
+CAREER OBJECTIVE
+
+To become a leading software developer and technology entrepreneur by building scalable digital systems that create social and economic impact.
+
+REFERENCES
+AVAILABLE UPON REQUEST

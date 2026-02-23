@@ -1,0 +1,65 @@
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.units import inch
+from reportlab.lib import colors
+import os
+
+# Use current folder automatically
+BASE = os.getcwd()
+
+# Innovation abstract filenames (exact names from your directory)
+FILES = {
+    "abstract_english.txt": "abstract_english.pdf",
+    "abstract_kikuyu.txt": "abstract_kikuyu.pdf",
+    "abstract_swahili.txt": "abstract_swahili.pdf",
+}
+
+# Times New Roman style (PDF equivalent)
+style = ParagraphStyle(
+    name="Times15",
+    fontName="Times-Roman",
+    fontSize=12,
+    leading=18,  # 1.5 spacing (12 * 1.5 = 18)
+    textColor=colors.black
+)
+
+for txt_name, pdf_name in FILES.items():
+    txt_path = os.path.join(BASE, txt_name)
+    pdf_path = os.path.join(BASE, pdf_name)
+
+    if not os.path.exists(txt_path):
+        print(f"NOT FOUND: {txt_name}")
+        continue
+
+    doc = SimpleDocTemplate(
+        pdf_path,
+        pagesize=A4,
+        leftMargin=72,
+        rightMargin=72,
+        topMargin=72,
+        bottomMargin=72
+    )
+
+    elements = []
+
+    with open(txt_path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        clean = line.strip()
+
+        if clean == "":
+            elements.append(Spacer(1, 0.2 * inch))
+        else:
+            safe = (
+                clean.replace("&", "&amp;")
+                     .replace("<", "&lt;")
+                     .replace(">", "&gt;")
+            )
+            elements.append(Paragraph(safe, style))
+
+    doc.build(elements)
+    print(f"CREATED: {pdf_name}")
+
+print("DONE ✅")
